@@ -1,0 +1,1010 @@
+time: Mon Oct  4 16:25:55 2004
+Source:      128:11:152:59:185:236
+Destination: 190:98:216:172:144:0
+IP packet
+header length: 20
+Source Service Name: domain
+UDP packet
+  source Port: 53
+  destination Port: 1024
+  packet length: 121
+  source: 128.3.99.102
+  destination: 128.3.26.249
+Time to live: 62
+Identification: 63046
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:55 2004
+Source:      190:98:216:172:144:0
+Destination: 128:11:152:59:185:236
+IP packet
+header length: 20
+Source Service Name: smtp
+TCP packet
+  source Port: 25
+  destination Port: 3671
+  sequence Number: 4031301167
+  acknowledgement Number: 783312254
+  Flags:
+    ACK
+  source: 128.3.26.249
+  destination: 216.151.38.75
+Time to live: 64
+Identification: 43774
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:55 2004
+Source:      128:11:152:59:185:236
+Destination: 190:98:216:125:183:154
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 128.3.96.209
+  destination: 128.3.26.57
+Time to live: 62
+Identification: 1820
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:55 2004
+Source:      190:98:216:125:183:154
+Destination: 128:11:152:59:185:236
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 128.3.26.57
+  destination: 128.3.96.209
+Time to live: 64
+Identification: 6552
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:55 2004
+Source:      128:11:152:59:185:236
+Destination: 190:98:216:172:144:0
+IP packet
+header length: 20
+Destination Service Name: smtp
+TCP packet
+  source Port: 3671
+  destination Port: 25
+  sequence Number: 783312254
+  acknowledgement Number: 1128908335
+  Flags:
+    ACK
+  source: 216.151.38.75
+  destination: 128.3.26.249
+Time to live: 114
+Identification: 36629
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:55 2004
+Source:      190:98:216:172:144:0
+Destination: 128:11:152:59:185:236
+IP packet
+header length: 20
+Source Service Name: smtp
+TCP packet
+  source Port: 25
+  destination Port: 3671
+  sequence Number: 1128908335
+  acknowledgement Number: 1102079358
+  Flags:
+    ACK
+  source: 128.3.26.249
+  destination: 216.151.38.75
+Time to live: 64
+Identification: 63685
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:55 2004
+Source:      190:98:216:172:144:0
+Destination: 128:11:152:59:185:236
+IP packet
+header length: 20
+Source Service Name: smtp
+TCP packet
+  source Port: 25
+  destination Port: 3671
+  sequence Number: 1128908335
+  acknowledgement Number: 1102079358
+  Flags:
+    ACK
+  source: 128.3.26.249
+  destination: 216.151.38.75
+Time to live: 64
+Identification: 45954
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:55 2004
+Source:      128:11:152:59:185:236
+Destination: 190:98:216:125:183:154
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 131.243.33.159
+  destination: 128.3.26.57
+Time to live: 58
+Identification: 51243
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:55 2004
+Source:      190:98:216:125:183:154
+Destination: 128:11:152:59:185:236
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 128.3.26.57
+  destination: 131.243.33.159
+Time to live: 64
+Identification: 56475
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:55 2004
+Source:      128:11:152:59:185:236
+Destination: 190:98:216:172:144:0
+IP packet
+header length: 20
+Destination Service Name: smtp
+TCP packet
+  source Port: 3671
+  destination Port: 25
+  sequence Number: 1102079358
+  acknowledgement Number: 2118764079
+  Flags:
+    ACK
+  source: 216.151.38.75
+  destination: 128.3.26.249
+Time to live: 114
+Identification: 36644
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:55 2004
+Source:      190:98:216:172:144:0
+Destination: 128:11:152:59:185:236
+IP packet
+header length: 20
+Source Service Name: smtp
+TCP packet
+  source Port: 25
+  destination Port: 3671
+  sequence Number: 2118764079
+  acknowledgement Number: 1638950270
+  Flags:
+    ACK
+  source: 128.3.26.249
+  destination: 216.151.38.75
+Time to live: 64
+Identification: 19451
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:55 2004
+Source:      190:98:216:172:144:0
+Destination: 128:11:152:59:185:236
+IP packet
+header length: 20
+Destination Service Name: domain
+UDP packet
+  source Port: 1024
+  destination Port: 53
+  packet length: 48
+  source: 128.3.26.249
+  destination: 128.3.99.102
+Time to live: 64
+Identification: 8441
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:55 2004
+Source:      128:11:152:59:185:236
+Destination: 190:98:216:172:144:0
+IP packet
+header length: 20
+Source Service Name: domain
+UDP packet
+  source Port: 53
+  destination Port: 1024
+  packet length: 103
+  source: 128.3.99.102
+  destination: 128.3.26.249
+Time to live: 62
+Identification: 63056
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:55 2004
+Source:      190:98:216:172:144:0
+Destination: 128:11:152:59:185:236
+IP packet
+header length: 20
+Destination Service Name: domain
+UDP packet
+  source Port: 1024
+  destination Port: 53
+  packet length: 48
+  source: 128.3.26.249
+  destination: 128.3.99.102
+Time to live: 64
+Identification: 49577
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:55 2004
+Source:      128:11:152:59:185:236
+Destination: 190:98:216:172:144:0
+IP packet
+header length: 20
+Source Service Name: domain
+UDP packet
+  source Port: 53
+  destination Port: 1024
+  packet length: 103
+  source: 128.3.99.102
+  destination: 128.3.26.249
+Time to live: 62
+Identification: 63058
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:55 2004
+Source:      190:98:216:172:144:0
+Destination: 128:11:152:59:185:236
+IP packet
+header length: 20
+Destination Service Name: domain
+UDP packet
+  source Port: 1024
+  destination Port: 53
+  packet length: 59
+  source: 128.3.26.249
+  destination: 128.3.99.102
+Time to live: 64
+Identification: 42214
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:55 2004
+Source:      128:11:152:59:185:236
+Destination: 190:98:216:172:144:0
+IP packet
+header length: 20
+Source Service Name: domain
+UDP packet
+  source Port: 53
+  destination Port: 1024
+  packet length: 120
+  source: 128.3.99.102
+  destination: 128.3.26.249
+Time to live: 62
+Identification: 63059
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:55 2004
+Source:      190:98:216:172:144:0
+Destination: 128:11:152:59:185:236
+IP packet
+header length: 20
+Destination Service Name: domain
+UDP packet
+  source Port: 1024
+  destination Port: 53
+  packet length: 56
+  source: 128.3.26.249
+  destination: 128.3.99.102
+Time to live: 64
+Identification: 34195
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:55 2004
+Source:      128:11:152:59:185:236
+Destination: 190:98:216:172:144:0
+IP packet
+header length: 20
+Source Service Name: domain
+UDP packet
+  source Port: 53
+  destination Port: 1024
+  packet length: 117
+  source: 128.3.99.102
+  destination: 128.3.26.249
+Time to live: 62
+Identification: 63060
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:56 2004
+Source:      190:98:216:172:144:0
+Destination: 128:11:152:59:185:236
+IP packet
+header length: 20
+Source Service Name: smtp
+TCP packet
+  source Port: 25
+  destination Port: 3671
+  sequence Number: 2118764079
+  acknowledgement Number: 1638950270
+  Flags:
+    ACK
+  source: 128.3.26.249
+  destination: 216.151.38.75
+Time to live: 64
+Identification: 13020
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:56 2004
+Source:      128:11:152:59:185:236
+Destination: 190:98:216:125:183:154
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 128.3.97.11
+  destination: 128.3.26.57
+Time to live: 62
+Identification: 854
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:56 2004
+Source:      190:98:216:125:183:154
+Destination: 128:11:152:59:185:236
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 128.3.26.57
+  destination: 128.3.97.11
+Time to live: 64
+Identification: 52987
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:56 2004
+Source:      128:11:152:59:185:236
+Destination: 190:98:216:170:243:36
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 131.243.24.217
+  destination: 128.3.26.152
+Time to live: 253
+Identification: 41418
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:56 2004
+Source:      190:98:216:170:243:36
+Destination: 128:11:152:59:185:236
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 128.3.26.152
+  destination: 131.243.24.217
+Time to live: 64
+Identification: 43509
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:56 2004
+Source:      128:11:152:59:185:236
+Destination: 190:98:216:172:144:0
+IP packet
+header length: 20
+Destination Service Name: smtp
+TCP packet
+  source Port: 3671
+  destination Port: 25
+  sequence Number: 1638950270
+  acknowledgement Number: 3662267951
+  Flags:
+    ACK
+    FIN
+  source: 216.151.38.75
+  destination: 128.3.26.249
+Time to live: 114
+Identification: 36677
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:56 2004
+Source:      190:98:216:172:144:0
+Destination: 128:11:152:59:185:236
+IP packet
+header length: 20
+Source Service Name: smtp
+TCP packet
+  source Port: 25
+  destination Port: 3671
+  sequence Number: 3662267951
+  acknowledgement Number: 1655727486
+  Flags:
+    ACK
+  source: 128.3.26.249
+  destination: 216.151.38.75
+Time to live: 64
+Identification: 666
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:56 2004
+Source:      190:98:216:172:144:0
+Destination: 128:11:152:59:185:236
+IP packet
+header length: 20
+Source Service Name: smtp
+TCP packet
+  source Port: 25
+  destination Port: 3671
+  sequence Number: 3662267951
+  acknowledgement Number: 1655727486
+  Flags:
+    ACK
+    FIN
+  source: 128.3.26.249
+  destination: 216.151.38.75
+Time to live: 64
+Identification: 44682
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:56 2004
+Source:      128:11:152:59:185:236
+Destination: 190:98:216:172:144:0
+IP packet
+header length: 20
+Destination Service Name: smtp
+TCP packet
+  source Port: 3671
+  destination Port: 25
+  sequence Number: 1655727486
+  acknowledgement Number: 3679045167
+  Flags:
+    ACK
+  source: 216.151.38.75
+  destination: 128.3.26.249
+Time to live: 114
+Identification: 36701
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:56 2004
+Source:      128:11:152:59:185:236
+Destination: 190:98:216:125:183:154
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 128.3.97.100
+  destination: 128.3.26.57
+Time to live: 62
+Identification: 1340
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:56 2004
+Source:      190:98:216:125:183:154
+Destination: 128:11:152:59:185:236
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 128.3.26.57
+  destination: 128.3.97.100
+Time to live: 64
+Identification: 35575
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:57 2004
+Source:      128:11:152:59:185:236
+Destination: 190:98:216:125:183:154
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 128.3.97.100
+  destination: 128.3.26.57
+Time to live: 62
+Identification: 1341
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:57 2004
+Source:      190:98:216:125:183:154
+Destination: 128:11:152:59:185:236
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 128.3.26.57
+  destination: 128.3.97.100
+Time to live: 64
+Identification: 49549
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:58 2004
+Source:      128:11:152:59:185:236
+Destination: 190:98:216:218:8:235
+IP packet
+header length: 20
+Source Service Name: shell
+Destination Service Name: shell
+UDP packet
+  source Port: 514
+  destination Port: 514
+  packet length: 107
+  source: 192.41.222.40
+  destination: 128.3.26.181
+Time to live: 59
+Identification: 47164
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:58 2004
+Source:      128:11:152:59:185:236
+Destination: 190:98:216:170:243:36
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 128.55.181.5
+  destination: 128.3.26.152
+Time to live: 57
+Identification: 44834
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:58 2004
+Source:      128:11:152:59:185:236
+Destination: 190:98:216:218:8:235
+IP packet
+header length: 20
+Source Service Name: shell
+Destination Service Name: shell
+UDP packet
+  source Port: 514
+  destination Port: 514
+  packet length: 106
+  source: 192.41.222.40
+  destination: 128.3.26.181
+Time to live: 59
+Identification: 47167
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:58 2004
+Source:      128:11:152:59:185:236
+Destination: 169:113:29:216:29:126
+
+time: Mon Oct  4 16:25:58 2004
+Source:      128:11:152:59:185:236
+Destination: 190:98:216:125:183:154
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 128.3.96.209
+  destination: 128.3.26.57
+Time to live: 62
+Identification: 1822
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:58 2004
+Source:      190:98:216:125:183:154
+Destination: 128:11:152:59:185:236
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 128.3.26.57
+  destination: 128.3.96.209
+Time to live: 64
+Identification: 3528
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:59 2004
+Source:      128:11:152:59:185:236
+Destination: 190:98:216:125:183:154
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 128.3.97.115
+  destination: 128.3.26.57
+Time to live: 62
+Identification: 27076
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:59 2004
+Source:      190:98:216:125:183:154
+Destination: 128:11:152:59:185:236
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 128.3.26.57
+  destination: 128.3.97.115
+Time to live: 64
+Identification: 65500
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:59 2004
+Source:      128:11:152:59:185:236
+Destination: 190:98:216:125:183:154
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 128.3.97.192
+  destination: 128.3.26.57
+Time to live: 62
+Identification: 42289
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:59 2004
+Source:      190:98:216:125:183:154
+Destination: 128:11:152:59:185:236
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 128.3.26.57
+  destination: 128.3.97.192
+Time to live: 64
+Identification: 50341
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:59 2004
+Source:      128:11:152:59:185:236
+Destination: 190:98:216:125:183:154
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 128.3.97.100
+  destination: 128.3.26.57
+Time to live: 62
+Identification: 1342
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:25:59 2004
+Source:      190:98:216:125:183:154
+Destination: 128:11:152:59:185:236
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 128.3.26.57
+  destination: 128.3.97.100
+Time to live: 64
+Identification: 22942
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:26:00 2004
+Source:      128:11:152:59:185:236
+Destination: 190:98:216:125:183:154
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 128.3.97.11
+  destination: 128.3.26.57
+Time to live: 62
+Identification: 54911
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:26:00 2004
+Source:      190:98:216:125:183:154
+Destination: 128:11:152:59:185:236
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 128.3.26.57
+  destination: 128.3.97.11
+Time to live: 64
+Identification: 15522
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:26:00 2004
+Source:      128:11:152:59:185:236
+Destination: 28:214:7:52:182:98
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 131.243.208.56
+  destination: 128.3.26.133
+Time to live: 62
+Identification: 22628
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:26:00 2004
+Source:      128:11:152:59:185:236
+Destination: 190:98:216:125:183:154
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 128.3.97.115
+  destination: 128.3.26.57
+Time to live: 62
+Identification: 27078
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:26:00 2004
+Source:      190:98:216:125:183:154
+Destination: 128:11:152:59:185:236
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 128.3.26.57
+  destination: 128.3.97.115
+Time to live: 64
+Identification: 55801
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:26:00 2004
+Source:      128:11:152:59:185:236
+Destination: 190:98:216:125:183:154
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 128.3.97.100
+  destination: 128.3.26.57
+Time to live: 62
+Identification: 1343
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:26:00 2004
+Source:      190:98:216:125:183:154
+Destination: 128:11:152:59:185:236
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 128.3.26.57
+  destination: 128.3.97.100
+Time to live: 64
+Identification: 45474
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:26:02 2004
+Source:      128:11:152:59:185:236
+Destination: 39:54:140:255:255:255
+
+time: Mon Oct  4 16:26:02 2004
+Source:      128:11:152:59:185:236
+Destination: 190:98:216:125:183:154
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 128.3.97.115
+  destination: 128.3.26.57
+Time to live: 62
+Identification: 27079
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0
+
+time: Mon Oct  4 16:26:02 2004
+Source:      190:98:216:125:183:154
+Destination: 128:11:152:59:185:236
+IP packet
+header length: 20
+Source Service Name: ntp
+Destination Service Name: ntp
+UDP packet
+  source Port: 123
+  destination Port: 123
+  packet length: 56
+  source: 128.3.26.57
+  destination: 128.3.97.115
+Time to live: 64
+Identification: 27828
+RESERVED fragment flag: 0
+DONT fragment flag: 0
+MORE fragment flag: 0

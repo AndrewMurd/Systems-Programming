@@ -1,0 +1,68 @@
+*********************************
+     make solution
+********************************
+cc -Wall -g   -c -o parse.o parse.c
+cc -Wall -g   -c -o exec.o exec.c
+exec.c: In function ‘exec’:
+exec.c:36:2: error: ‘for’ loop initial declarations are only allowed in C99 mode
+  for(int i = 0; i < numCommands; i++) {
+  ^
+exec.c:36:2: note: use option -std=c99 or -std=gnu99 to compile your code
+exec.c:129:14: error: redefinition of ‘i’
+      for(int i = 0; i < 2*numCommands; i++){
+              ^
+exec.c:92:10: note: previous definition of ‘i’ was here
+      int i = 1;
+          ^
+exec.c:129:6: error: ‘for’ loop initial declarations are only allowed in C99 mode
+      for(int i = 0; i < 2*numCommands; i++){
+      ^
+exec.c:143:4: error: ‘for’ loop initial declarations are only allowed in C99 mode
+    for(int i = 0; i < 2*numCommands; i++)
+    ^
+exec.c:146:12: error: redefinition of ‘i’
+    for(int i = 0; i < 2*numCommands; i++)
+            ^
+exec.c:143:12: note: previous definition of ‘i’ was here
+    for(int i = 0; i < 2*numCommands; i++)
+            ^
+exec.c:146:4: error: ‘for’ loop initial declarations are only allowed in C99 mode
+    for(int i = 0; i < 2*numCommands; i++)
+    ^
+make: *** [exec.o] Error 1
+*********************************
+     test single program
+            ps -a
+*********************************
+/home/mgreen/CSCI3310/assign1: line 11: ./mysh: No such file or directory
+********************************
+     test output redirection
+         ls >LsOutput
+********************************
+/home/mgreen/CSCI3310/assign1: line 19: ./mysh: No such file or directory
+***  Output File ***
+cat: LsOutput: No such file or directory
+********************************
+      test input redirection
+            sort -r <LsOutput
+********************************
+/home/mgreen/CSCI3310/assign1: line 29: ./mysh: No such file or directory
+********************************
+     memory leak test
+            ls
+********************************
+valgrind: ./mysh: No such file or directory
+*******************************
+     simple pipeline test
+           ls | wc
+*******************************
+/home/mgreen/CSCI3310/assign1: line 45: ./mysh: No such file or directory
+*******************************
+     complex pipeline test
+         ls | sort -r | cat
+******************************
+/home/mgreen/CSCI3310/assign1: line 53: ./mysh: No such file or directory
+*******************************
+             Tests Done!
+*******************************
+End of tests

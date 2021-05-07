@@ -1,0 +1,55 @@
+*********************************
+     make solution
+********************************
+cc -Wall -g -std=gnu99   -c -o server.o server.c
+server.c: In function ‘main’:
+server.c:174:50: warning: comparison between pointer and integer [enabled by default]
+    if (Client[i].sockID == 0 || Client[i].sockID == NULL) {
+                                                  ^
+server.c: In function ‘handleNetworking’:
+server.c:102:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+cc -Wall -g -std=gnu99   -c -o lib.o lib.c
+cc -o server server.o lib.o -lpthread
+cc -Wall -g -std=gnu99   -c -o client.o client.c
+cc -o client client.o lib.o -lpthread
+*********************************
+     student client one
+********************************
+*********************************
+     student client two
+********************************
+You chose "one" as ur username.
+Connection established to port 55555 ............
+one: line one
+one: line two
+two: line one
+one: line three
+two: line two
+You chose "two" as ur username.
+Connection established to port 55555 ............
+one: line one
+one: line two
+two: line one
+one: line three
+two: line two
+You disconnected from server!
+*********************************
+     test client one
+********************************
+*********************************
+     test client two
+********************************
+one: line one
+two: line one
+one: line two
+one: line three
+two: line two
+one: line one
+two: line one
+one: line two
+one: line three
+two: line three
+*******************************
+End of tests
